@@ -1,5 +1,5 @@
 # Data-Science-and-Applied-Statics-Assessment
-# Assessemnt Feedback
+# Assessemnt Feedback, Marks: 76 / 100
 - Q1 breakdown [2,2,4,5] The answer to question 1 is good overall. However, for item ©, you use TSNE instead of PCA. Also, for item (d), you should have plotted both histograms on the same graph to spot similarities and differences easily. As it is shown, that is not clear, as your sample is very small, and the distances are very small.; 
 - Q2 breakdown [7, 6, 5 ,6] good work on KNN, only turned one hyperparameter for LR and RF. but no CV curves for the classifiers. Kmeans did well. ; 
 - Q3 breakdown [3, 5, 2, 2, 0, 4]
